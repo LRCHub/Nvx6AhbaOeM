@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "あたしを選ばなかった君へ",
+  "base_artist": "コレサワ",
+  "createdAt": "2026-03-14T07:47:30.930579Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あたしを選ばなかった君へ",
+      "artist": "コレサワ",
+      "has_synced": false,
+      "path": "select/pl_01_あたしを選ばなかった君へ_コレサワ.txt"
+    }
+  ]
+}
